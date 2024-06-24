@@ -35,7 +35,7 @@ Detecting White Lane Lines:  https://youtu.be/VXccUjr322A
 Detecting Yellow Lane Lines:  https://youtu.be/t38wJ3V3Mi8
 <br />
 Challenge Video:  https://youtu.be/6eJAxwa-qDY
-<br />
+<br />: still pending to get a robust solution for it.
 
 
 ## Blog Post taken as reference:
