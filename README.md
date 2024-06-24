@@ -3,6 +3,7 @@ Lane Detection Project, using Hough Transform
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+
 # Finding Lane Lines on the Road 
 
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
@@ -39,6 +40,7 @@ Challenge Video:  https://youtu.be/6eJAxwa-qDY
 
 
 ## Blog Post taken as reference:
+https://blog.paperspace.com/understanding-hough-transform-lane-detection/
 https://medium.com/@maunesh/finding-the-right-parameters-for-your-computer-vision-algorithm-d55643b6f954
 
 
